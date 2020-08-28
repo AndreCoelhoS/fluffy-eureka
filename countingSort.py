@@ -1,5 +1,4 @@
-import sys, time
-from random import randint
+import sys
 
 def countingSort(A,B):
     k =  max(A)
